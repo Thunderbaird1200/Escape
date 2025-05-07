@@ -2,6 +2,7 @@
   "expo": {
     "name": "escape1",
     "slug": "escape1",
+    "scheme": "escape1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
